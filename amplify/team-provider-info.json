@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-yumaueki-dev-132151-authRole",
+      "UnauthRoleArn": "arn:aws:iam::561643958265:role/amplify-yumaueki-dev-132151-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::561643958265:role/amplify-yumaueki-dev-132151-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-yumaueki-dev-132151-deployment",
+      "UnauthRoleName": "amplify-yumaueki-dev-132151-unauthRole",
+      "StackName": "amplify-yumaueki-dev-132151",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:561643958265:stack/amplify-yumaueki-dev-132151/9577cc40-4623-11ee-b3a9-0e20a149a329",
+      "AmplifyAppId": "dv88dupqjuwoi"
+    }
+  }
+}
